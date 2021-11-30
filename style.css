@@ -1,0 +1,31 @@
+*{
+    margin:0px;
+    padding:0px;
+    font-size: 20px;
+}
+
+.outer{
+   
+    margin :1px auto;
+    width:700px;
+    height :700px;
+
+}
+.outer h1{
+    text-align: center;
+}
+p{
+    font-size:20px;
+    font-family: Arial;
+}
+.border{
+  
+    padding:4px;
+    background-color:grey;
+    border:1px solid black;
+}
+
+ul{
+    font-size:20px;
+    margin-left:40px;
+}
